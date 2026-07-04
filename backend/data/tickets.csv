@@ -1,0 +1,301 @@
+text,category,priority
+"This is urgent, my profile information keeps reverting to old data",Account,High
+Fairly important: i was charged twice for my subscription this month,Billing,Medium
+Low priority - just wanted to say the new update looks great,General,Low
+"This is blocking my entire team, how do i integrate this with slack",Product,High
+Can you explain the extra charge on my card,Billing,High
+"Whenever you have time, do you have an affiliate program",General,Low
+I was charged twice for my subscription this month,Billing,Medium
+Fairly important: getting error code e1023 on export,Technical,High
+Emergency: i would like to give feedback about my experience,General,High
+Emergency: i cannot log into my account anymore,Account,High
+"Whenever you have time, payment failed but money was deducted from my account",Billing,High
+Emergency: payment failed but money was deducted from my account,Billing,High
+Emergency: my profile information keeps reverting to old data,Account,High
+My profile information keeps reverting to old data,Account,Medium
+Emergency: please help me change my registered email address,Account,High
+Just a small note: i was charged twice for my subscription this month,Billing,Low
+What is the difference between the pro and team plans,Product,Medium
+"Please help soon, api returns null instead of the expected response",Technical,Medium
+Fairly important: the website is down for everyone in my team,Technical,Medium
+"Please help soon, can the product support multiple languages",Product,Medium
+"Fairly important: my invoice shows an incorrect amount, please fix it",Billing,High
+Emergency: my coupon code did not apply at checkout,Billing,High
+"This needs attention, can the product support multiple languages",Product,Medium
+Fairly important: the mobile app freezes on the home screen,Technical,Medium
+ASAP - i am getting a 500 error when logging in,Technical,High
+"This is blocking my entire team, the website is down for everyone in my team",Technical,High
+Low priority - i want to delete my account permanently,Account,Low
+Low priority - can the product support multiple languages,Product,Low
+I cannot log into my account anymore,Account,Medium
+ASAP - the billing cycle date changed without notice,Billing,High
+Emergency: do you have an affiliate program,General,High
+"Whenever you have time, payment failed but money was deducted from my account",Billing,Low
+ASAP - i forgot my password and the reset link is not working,Account,High
+Server keeps timing out during checkout,Technical,Medium
+"This is urgent, my profile information keeps reverting to old data",Account,High
+"Whenever you have time, i forgot my password and the reset link is not working",Account,Low
+Emergency: api returns null instead of the expected response,Technical,High
+"Whenever you have time, api returns null instead of the expected response",Technical,Low
+Just a small note: please help me change my registered email address,Account,Low
+Critical issue: does this plan support exporting to excel,Product,High
+Low priority - server keeps timing out during checkout,Technical,Low
+"Whenever you have time, i want to delete my account permanently",Account,Low
+"This needs attention, where can i find your terms of service",General,Medium
+Fairly important: i was charged twice for my subscription this month,Billing,High
+Fairly important: getting error code e1023 on export,Technical,Medium
+"This needs attention, i am getting a 500 error when logging in",Technical,Medium
+"No rush, but server keeps timing out during checkout",Technical,Low
+The billing cycle date changed without notice,Billing,Medium
+"ASAP - my invoice shows an incorrect amount, please fix it",Billing,High
+"We are losing money because of this, api returns null instead of the expected response",Technical,High
+Critical issue: the mobile app freezes on the home screen,Technical,High
+"This needs attention, the website is down for everyone in my team",Technical,Medium
+"ASAP - my invoice shows an incorrect amount, please fix it",Billing,High
+ASAP - payment failed but money was deducted from my account,Billing,High
+Fairly important: i need to transfer ownership of my account,Account,Medium
+"This needs attention, i need a feature to schedule recurring reports",Product,Medium
+"Please help soon, suggestion: add keyboard shortcuts for navigation",Product,Medium
+I was charged twice for my subscription this month,Billing,Medium
+"No rush, but the website is down for everyone in my team",Technical,High
+Low priority - my profile information keeps reverting to old data,Account,Low
+"We are losing money because of this, i am getting a 500 error when logging in",Technical,High
+Suggestion: add keyboard shortcuts for navigation,Product,Medium
+Getting error code E1023 on export,Technical,High
+"We are losing money because of this, server keeps timing out during checkout",Technical,High
+"No rush, but my invoice shows an incorrect amount, please fix it",Billing,Low
+Low priority - suggestion: add keyboard shortcuts for navigation,Product,Low
+How can I contact your sales team,General,Medium
+"We are losing money because of this, how can i contact your sales team",General,High
+ASAP - api returns null instead of the expected response,Technical,High
+Low priority - api returns null instead of the expected response,Technical,Low
+The website is down for everyone in my team,Technical,Medium
+"This is urgent, two-factor authentication is not sending codes",Account,High
+Fairly important: i want to delete my account permanently,Account,Medium
+"We are losing money because of this, payment failed but money was deducted from my account",Billing,High
+"Please help soon, payment failed but money was deducted from my account",Billing,High
+"Whenever you have time, the app crashes every time i try to upload a file",Technical,Low
+Does this plan support exporting to Excel,Product,Medium
+Fairly important: can the product support multiple languages,Product,Medium
+"Whenever you have time, i cannot log into my account anymore",Account,Low
+"This is blocking my entire team, i forgot my password and the reset link is not working",Account,High
+"No rush, but can you point me to the onboarding guide",General,Low
+ASAP - i was charged twice for my subscription this month,Billing,High
+Just a small note: please help me change my registered email address,Account,Low
+"This is urgent, what are your customer support working hours",General,High
+"No rush, but i forgot my password and the reset link is not working",Account,Low
+Just a small note: can you explain the extra charge on my card,Billing,Low
+"Please help soon, i need a copy of my last 3 invoices",Billing,Medium
+Fairly important: the website is down for everyone in my team,Technical,High
+ASAP - can the product support multiple languages,Product,High
+Fairly important: how can i contact your sales team,General,Medium
+Critical issue: two-factor authentication is not sending codes,Account,High
+"Whenever you have time, how do i integrate this with slack",Product,Low
+Can you point me to the onboarding guide,General,Medium
+I want a refund for the last payment,Billing,High
+"This is urgent, i was charged twice for my subscription this month",Billing,High
+Do you have an affiliate program,General,Medium
+Emergency: i need to transfer ownership of my account,Account,High
+Critical issue: what are your customer support working hours,General,High
+ASAP - i am getting a 500 error when logging in,Technical,High
+Fairly important: how do i integrate this with slack,Product,Medium
+Low priority - what is the difference between the pro and team plans,Product,Low
+"This is blocking my entire team, where can i find your terms of service",General,High
+"Please help soon, i would like to give feedback about my experience",General,Medium
+Critical issue: i would like to give feedback about my experience,General,High
+The website is down for everyone in my team,Technical,Medium
+"Whenever you have time, i want to delete my account permanently",Account,Low
+Just a small note: the website is down for everyone in my team,Technical,Low
+Critical issue: do you have an affiliate program,General,High
+ASAP - payment failed but money was deducted from my account,Billing,High
+Fairly important: is there a way to bulk import contacts,Product,Medium
+"Critical issue: my invoice shows an incorrect amount, please fix it",Billing,High
+"This needs attention, do you have an affiliate program",General,Medium
+Critical issue: the website is down for everyone in my team,Technical,High
+"This needs attention, i would like to give feedback about my experience",General,Medium
+"Whenever you have time, can you explain the extra charge on my card",Billing,Low
+I want a refund for the last payment,Billing,High
+"This is urgent, i want to delete my account permanently",Account,High
+Server keeps timing out during checkout,Technical,High
+"No rush, but the mobile app freezes on the home screen",Technical,Low
+"Please help soon, the mobile app freezes on the home screen",Technical,High
+"No rush, but i would like to give feedback about my experience",General,Low
+Low priority - i need to transfer ownership of my account,Account,Low
+I need to transfer ownership of my account,Account,Medium
+"Whenever you have time, i would like to give feedback about my experience",General,Low
+I want a refund for the last payment,Billing,Medium
+Low priority - two-factor authentication is not sending codes,Account,Low
+"We are losing money because of this, the billing cycle date changed without notice",Billing,High
+I would like to request a dark mode feature,Product,Medium
+Emergency: i need a feature to schedule recurring reports,Product,High
+I want to delete my account permanently,Account,Medium
+"Please help soon, how do i integrate this with slack",Product,Medium
+"Whenever you have time, my account got suspended without explanation",Account,Low
+"Please help soon, i need to transfer ownership of my account",Account,Medium
+"No rush, but is there a way to bulk import contacts",Product,Low
+Just a small note: what are your customer support working hours,General,Low
+I want to delete my account permanently,Account,Medium
+Low priority - can you explain the extra charge on my card,Billing,Low
+Payment failed but money was deducted from my account,Billing,Medium
+"Please help soon, two-factor authentication is not sending codes",Account,Medium
+Just a small note: is there a way to bulk import contacts,Product,Low
+"This needs attention, suggestion: add keyboard shortcuts for navigation",Product,Medium
+"This is blocking my entire team, how can i contact your sales team",General,High
+"Whenever you have time, the app crashes every time i try to upload a file",Technical,High
+"This needs attention, two-factor authentication is not sending codes",Account,Medium
+Low priority - is there a way to bulk import contacts,Product,Low
+"No rush, but my invoice shows an incorrect amount, please fix it",Billing,High
+"No rush, but api returns null instead of the expected response",Technical,Low
+Fairly important: what is the difference between the pro and team plans,Product,Medium
+ASAP - getting error code e1023 on export,Technical,High
+Fairly important: the website is down for everyone in my team,Technical,Medium
+"Please help soon, where can i find your terms of service",General,Medium
+"Whenever you have time, where can i find your terms of service",General,Low
+ASAP - thank you for the quick help last time,General,High
+Just a small note: thank you for the quick help last time,General,Low
+Emergency: i cannot log into my account anymore,Account,High
+Just a small note: do you have an affiliate program,General,Low
+"This needs attention, i would like to request a dark mode feature",Product,Medium
+"No rush, but i cannot log into my account anymore",Account,Low
+"Whenever you have time, i need a copy of my last 3 invoices",Billing,Low
+"Please help soon, how can i contact your sales team",General,Medium
+"No rush, but i want a refund for the last payment",Billing,Low
+I need a feature to schedule recurring reports,Product,Medium
+What are your customer support working hours,General,Medium
+"Whenever you have time, do you have an affiliate program",General,Low
+"This is blocking my entire team, the dashboard is not loading any data",Technical,High
+"We are losing money because of this, my invoice shows an incorrect amount, please fix it",Billing,High
+Fairly important: my coupon code did not apply at checkout,Billing,Medium
+"This is urgent, the dashboard is not loading any data",Technical,High
+Emergency: i would like to request a dark mode feature,Product,High
+Please help me change my registered email address,Account,Medium
+Emergency: my coupon code did not apply at checkout,Billing,High
+Just a small note: suggestion: add keyboard shortcuts for navigation,Product,Low
+Just wanted to say the new update looks great,General,Medium
+"This is urgent, please help me change my registered email address",Account,High
+"Please help soon, i want to delete my account permanently",Account,Medium
+My profile information keeps reverting to old data,Account,Medium
+"No rush, but what is the difference between the pro and team plans",Product,Low
+"We are losing money because of this, do you have an affiliate program",General,High
+I would like to request a dark mode feature,Product,Medium
+Emergency: two-factor authentication is not sending codes,Account,High
+"This is urgent, getting error code e1023 on export",Technical,High
+"Just a small note: my invoice shows an incorrect amount, please fix it",Billing,Low
+"This needs attention, the mobile app freezes on the home screen",Technical,Medium
+Fairly important: how do i integrate this with slack,Product,Medium
+"No rush, but i would like to give feedback about my experience",General,Low
+"This is urgent, i need a copy of my last 3 invoices",Billing,High
+"No rush, but my invoice shows an incorrect amount, please fix it",Billing,Low
+"No rush, but please help me change my registered email address",Account,Low
+"This is blocking my entire team, my profile information keeps reverting to old data",Account,High
+Just a small note: just wanted to say the new update looks great,General,Low
+Critical issue: payment failed but money was deducted from my account,Billing,High
+Low priority - i want to delete my account permanently,Account,Low
+Critical issue: my profile information keeps reverting to old data,Account,High
+"Whenever you have time, just wanted to say the new update looks great",General,Low
+"This is blocking my entire team, can the product support multiple languages",Product,High
+"Whenever you have time, the dashboard is not loading any data",Technical,Low
+Low priority - my account got suspended without explanation,Account,Low
+The dashboard is not loading any data,Technical,Medium
+Fairly important: the billing cycle date changed without notice,Billing,Medium
+Can you point me to the onboarding guide,General,Medium
+Fairly important: i am getting a 500 error when logging in,Technical,Medium
+Fairly important: i would like to request a dark mode feature,Product,Medium
+Emergency: what is the difference between the pro and team plans,Product,High
+"This needs attention, i am getting a 500 error when logging in",Technical,High
+"No rush, but do you have an affiliate program",General,Low
+"This needs attention, thank you for the quick help last time",General,Medium
+"This is blocking my entire team, i want to delete my account permanently",Account,High
+"Please help soon, getting error code e1023 on export",Technical,High
+Critical issue: suggestion: add keyboard shortcuts for navigation,Product,High
+I cannot log into my account anymore,Account,Medium
+Low priority - what are your customer support working hours,General,Low
+Just a small note: can you point me to the onboarding guide,General,Low
+"Please help soon, i cannot log into my account anymore",Account,Medium
+What are your customer support working hours,General,Medium
+What is the difference between the pro and team plans,Product,Medium
+What is the difference between the pro and team plans,Product,Medium
+Suggestion: add keyboard shortcuts for navigation,Product,Medium
+"We are losing money because of this, does this plan support exporting to excel",Product,High
+Just wanted to say the new update looks great,General,Medium
+"This is urgent, what are your customer support working hours",General,High
+Just a small note: how do i integrate this with slack,Product,Low
+"Please help soon, i need a copy of my last 3 invoices",Billing,Medium
+Critical issue: does this plan support exporting to excel,Product,High
+Low priority - i want a refund for the last payment,Billing,Low
+ASAP - i need a copy of my last 3 invoices,Billing,High
+Critical issue: what are your customer support working hours,General,High
+I want to delete my account permanently,Account,Medium
+I was charged twice for my subscription this month,Billing,High
+The mobile app freezes on the home screen,Technical,Medium
+Emergency: api returns null instead of the expected response,Technical,High
+ASAP - i want to delete my account permanently,Account,High
+How do I integrate this with Slack,Product,Medium
+Low priority - api returns null instead of the expected response,Technical,Low
+"No rush, but the dashboard is not loading any data",Technical,High
+Fairly important: i need a copy of my last 3 invoices,Billing,Medium
+"This is urgent, is there a way to bulk import contacts",Product,High
+"Whenever you have time, i am getting a 500 error when logging in",Technical,High
+"Whenever you have time, server keeps timing out during checkout",Technical,High
+API returns null instead of the expected response,Technical,High
+"This needs attention, does this plan support exporting to excel",Product,Medium
+Fairly important: the mobile app freezes on the home screen,Technical,Medium
+"We are losing money because of this, server keeps timing out during checkout",Technical,High
+Emergency: thank you for the quick help last time,General,High
+Fairly important: just wanted to say the new update looks great,General,Medium
+"No rush, but the dashboard is not loading any data",Technical,Low
+Low priority - the website is down for everyone in my team,Technical,Low
+Just wanted to say the new update looks great,General,Medium
+"This is blocking my entire team, suggestion: add keyboard shortcuts for navigation",Product,High
+Fairly important: what is the difference between the pro and team plans,Product,Medium
+"Whenever you have time, i need to transfer ownership of my account",Account,Low
+Can the product support multiple languages,Product,Medium
+"This needs attention, what is the difference between the pro and team plans",Product,Medium
+ASAP - i would like to give feedback about my experience,General,High
+"We are losing money because of this, please help me change my registered email address",Account,High
+Low priority - where can i find your terms of service,General,Low
+Low priority - where can i find your terms of service,General,Low
+"Whenever you have time, i was charged twice for my subscription this month",Billing,High
+Can the product support multiple languages,Product,Medium
+Fairly important: what is the difference between the pro and team plans,Product,Medium
+Fairly important: my profile information keeps reverting to old data,Account,Medium
+Critical issue: i would like to request a dark mode feature,Product,High
+Fairly important: my account got suspended without explanation,Account,Medium
+"This needs attention, i want to delete my account permanently",Account,Medium
+"Whenever you have time, where can i find your terms of service",General,Low
+"No rush, but the billing cycle date changed without notice",Billing,High
+Fairly important: the dashboard is not loading any data,Technical,Medium
+Two-factor authentication is not sending codes,Account,Medium
+"No rush, but i was charged twice for my subscription this month",Billing,Low
+Just a small note: i need a copy of my last 3 invoices,Billing,Low
+Fairly important: suggestion: add keyboard shortcuts for navigation,Product,Medium
+Do you have an affiliate program,General,Medium
+"This needs attention, can you point me to the onboarding guide",General,Medium
+I would like to request a dark mode feature,Product,Medium
+I would like to request a dark mode feature,Product,Medium
+Do you have an affiliate program,General,Medium
+I was charged twice for my subscription this month,Billing,High
+"Whenever you have time, can you explain the extra charge on my card",Billing,Low
+Low priority - i need a feature to schedule recurring reports,Product,Low
+Critical issue: two-factor authentication is not sending codes,Account,High
+Do you have an affiliate program,General,Medium
+"No rush, but my invoice shows an incorrect amount, please fix it",Billing,High
+Critical issue: the mobile app freezes on the home screen,Technical,High
+Low priority - what are your customer support working hours,General,Low
+Does this plan support exporting to Excel,Product,Medium
+Fairly important: i was charged twice for my subscription this month,Billing,Medium
+Fairly important: do you have an affiliate program,General,Medium
+"Whenever you have time, i would like to request a dark mode feature",Product,Low
+"Whenever you have time, is there a way to bulk import contacts",Product,Low
+Critical issue: thank you for the quick help last time,General,High
+Just a small note: my coupon code did not apply at checkout,Billing,High
+Fairly important: the billing cycle date changed without notice,Billing,High
+Low priority - do you have an affiliate program,General,Low
+"We are losing money because of this, suggestion: add keyboard shortcuts for navigation",Product,High
+"No rush, but the dashboard is not loading any data",Technical,Low
+Just a small note: can you explain the extra charge on my card,Billing,High
+"We are losing money because of this, my account got suspended without explanation",Account,High
+"This needs attention, the website is down for everyone in my team",Technical,Medium
+"Low priority - my invoice shows an incorrect amount, please fix it",Billing,High
+"This is urgent, i want to delete my account permanently",Account,High
+Critical issue: my profile information keeps reverting to old data,Account,High
