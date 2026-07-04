@@ -1,0 +1,123 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# ==========================
+# Virtual Environment
+# ==========================
+venv/
+env/
+ENV/
+.venv/
+
+# ==========================
+# Environment Variables
+# ==========================
+.env
+.env.*
+
+# ==========================
+# Flask
+# ==========================
+instance/
+.flaskenv
+
+# ==========================
+# Database
+# ==========================
+*.db
+*.sqlite3
+
+# ==========================
+# IDE
+# ==========================
+.vscode/
+.idea/
+
+# ==========================
+# Jupyter Notebook
+# ==========================
+.ipynb_checkpoints/
+
+# ==========================
+# Logs
+# ==========================
+logs/
+*.log
+
+# ==========================
+# Testing
+# ==========================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ==========================
+# Build Files
+# ==========================
+build/
+dist/
+*.egg-info/
+
+# ==========================
+# OS Files
+# ==========================
+.DS_Store
+Thumbs.db
+
+# ==========================
+# Cache
+# ==========================
+.cache/
+.mypy_cache/
+
+# ==========================
+# ML Models (Ignore Large Files)
+# ==========================
+saved_models/
+models/
+checkpoints/
+
+*.h5
+*.keras
+*.ckpt
+*.pb
+*.onnx
+*.pt
+*.pth
+*.joblib
+
+# Ignore very large pickle models
+*.pkl
+
+# ==========================
+# Dataset (Optional)
+# ==========================
+data/raw/
+data/external/
+
+# Keep processed/sample datasets
+!data/processed/
+!data/sample/
+
+# ==========================
+# TensorBoard
+# ==========================
+runs/
+tensorboard/
+
+# ==========================
+# Node Modules (if used)
+# ==========================
+node_modules/
+
+# ==========================
+# Temporary Files
+# ==========================
+*.tmp
+*.temp
